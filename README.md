@@ -1,3 +1,3 @@
 # CV
-This new CV
+This my CV
 https://docs.google.com/document/d/1reTQg4wO9OQ631sEQEZT6TWvw43ZYUPJSLlbx2h1yO8/edit
