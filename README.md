@@ -1,3 +1,1 @@
-# CV
-This my CV
-https://docs.google.com/document/d/1reTQg4wO9OQ631sEQEZT6TWvw43ZYUPJSLlbx2h1yO8/edit
+[pysanka.pdf](https://github.com/V1nya/CV/files/11618319/pysanka.pdf)
